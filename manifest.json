@@ -1,0 +1,25 @@
+{
+  "name": "Reji Capoquian - Expert Cloud Engineer Portfolio",
+  "short_name": "Reji Capoquian",
+  "description": "Expert Cloud Engineer specializing in AWS, Azure, DevOps, Infrastructure as Code, Kubernetes, and Docker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity", "technology"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/reji.jpg",
+      "sizes": "500x500",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}

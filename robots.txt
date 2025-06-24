@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /api/
+Disallow: *.json$
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+
+Host: https://rtcapoquian.github.io/sample-website_for_terraform
+Sitemap: https://rtcapoquian.github.io/sample-website_for_terraform/sitemap.xml
