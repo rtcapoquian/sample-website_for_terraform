@@ -11,5 +11,5 @@ Allow: /
 Disallow: /private/
 Disallow: /admin/
 
-Host: https://rtcapoquian.github.io/sample-website_for_terraform
-Sitemap: https://rtcapoquian.github.io/sample-website_for_terraform/sitemap.xml
+Host: https://www.rejicodes.com
+Sitemap: https://www.rejicodes.com/sitemap.xml
